@@ -1,0 +1,11 @@
+#Idea
+*.iml
+*.ipr
+*.iws
+.idea/
+
+#Gradle
+build/
+.gradle
+
+local.properties
